@@ -92,7 +92,6 @@ and code from [CppCon 2015](http://cppcon.org).
  - [How to infix your code](Lightning Talks and Lunch Sessions/How to infix your code/How to infix your code - Pascal Bormann - CppCon 2015.pdf)
  - [Integrating TinyMCE3 into Qt](Lightning Talks and Lunch Sessions/Integrating TinyMCE3 into Qt/Integrating TinyMCE3 into Qt - Jens Weller - CppCon 2015.pdf)
  - [Introducing Brigand](Lightning Talks and Lunch Sessions/Introducing Brigand/Introducing Brigand - Edouard Alligand and Joel Falcou - CppCon 2015.pdf)
- - [Kiss Templates](Lightning Talks and Lunch Sessions/Kiss Templates/Kiss Templates - Roland Bock - CppCon 2015.pdf)
  - [RapidCheck, property based testing for C++](Lightning Talks and Lunch Sessions/RapidCheck, property based testing for C++/RapidCheck, property based testing for C++ - Emil Eriksson - CppCon 2015.pdf)
  - [The dangers of C style casts](Lightning Talks and Lunch Sessions/The dangers of C style casts/The dangers of C style casts - Joshua Gerrard - CppCon 2015.pdf) \[[.odp](Lightning Talks and Lunch Sessions/The dangers of C style casts/The dangers of C style casts - Joshua Gerrard - CppCon 2015.odp)\] \[[.pdf](Lightning Talks and Lunch Sessions/The dangers of C style casts/The dangers of C style casts - Joshua Gerrard - CppCon 2015.pdf)\]
  - [Traits Go Mainstream](Lightning Talks and Lunch Sessions/Traits Go Mainstream/Traits Go Mainstream - Leor Zolman - CppCon 2015.pdf)
