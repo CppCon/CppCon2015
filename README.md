@@ -47,7 +47,6 @@ and code from [CppCon 2015](http://cppcon.org).
  - [Live lock-free or deadlock](Presentations/Live lock-free or deadlock/Live lock-free or deadlock - Fedor Pikus - CppCon 2015.pdf)
  - [Memory and C++ debugging at EA](Presentations/Memory and C++ debugging at EA/Memory and C++ debugging at EA - Scott Wardle - CppCon 2015.pptx)
  - [Null Pointers Shouldn't Compile](Presentations/Null Pointers Shouldn't Compile/Null Pointers Shouldn't Compile - Jacob Potter - CppCon 2015.pdf)
- - [On C++, Javascript and WebSockets](Presentations/On C++, Javascript and WebSockets/On C++, Javascript and WebSockets - Alex Fabijanic - CppCon 2015.pdf)
  - [Organizational Leadership With Modern C++](Presentations/Organizational Leadership With Modern C++/Organizational Leadership With Modern C++ - Kevin Kostrzewa and John Wyman - CppCon 2015.pdf)
  - [Parallelizing the C++ STL](Presentations/Parallelizing the C++ STL/Parallelizing the C++ STL - Grant Mercer and Daniel Bourgeois - CppCon 2015.pdf)
  - [Pruning Error Messages From Your C++ Template Code](Presentations/Pruning Error Messages From Your C++ Template Code/Pruning Error Messages From Your C++ Template Code - Roland Bock - CppCon 2015.pdf)
@@ -75,6 +74,7 @@ and code from [CppCon 2015](http://cppcon.org).
 ## Demos
 
  - [Becoming a GDB Power User](Demos/Becoming a GDB Power User/Becoming a GDB Power User - Greg Law - CppCon 2015.pdf)
+ - [On C++, Javascript and WebSockets](Demos/On C++, Javascript and WebSockets/On C++, Javascript and WebSockets - Alex Fabijanic - CppCon 2015.pdf)
  - [Visualizing Template Instantiations - Templator Demo](Demos/Visualizing Template Instantiations - Templator Demo/Visualizing Template Instantiations - Templator Demo - Peter Sommerlad - CppCon 2015.pdf)
 
 ## Lightning Talks and Lunch Sessions
