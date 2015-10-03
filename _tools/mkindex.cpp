@@ -100,7 +100,13 @@ void GenerateIndex(const std::string& path) {
   const Directory dir(path);
 
   std::vector<std::string> contents = dir.Contents();
-  std::sort(contents.begin(), contents.end());
+
+  // Note this only works reliably for ASCII, but that's enough for our needs.
+  auto case_insensitive_lt = [](const std::string& a, const std::string& b){
+    return std::lexicographical_compare(a.begin(), a.end(), b.begin(), b.end(),
+      [](char c, char d){ return std::tolower(c) < std::tolower(d); });
+  };
+  std::sort(contents.begin(), contents.end(), case_insensitive_lt);
   for (const auto& name : contents) {
     GenerateEntry(name, path + "/" + name);
   }
