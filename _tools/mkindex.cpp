@@ -84,13 +84,13 @@ void GenerateEntry(const std::string& session_name,
       std::string extension = Extension(file);
 
       std::for_each(extension.begin(), extension.end(),
-        [](char& c) { c = std::toupper(c); });
-      std::cout << " [" << extension << "](" << path + "/" + file << ")";
+        [](char& c) { c = std::tolower(c); });
+      std::cout << " \\[[." << extension << "](" << path + "/" + file << ")\\]";
     }
   }
 
   if (!all_other_files.empty()) {
-    std::cout << " [more materials](" << path << ")";
+    std::cout << " \\[[more materials](" << path << ")\\]";
   }
 
   std::cout << std::endl;
