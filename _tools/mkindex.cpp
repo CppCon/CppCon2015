@@ -53,22 +53,34 @@ std::string Extension(const std::string& file) {
   return it->str();
 }
 
+std::string Author(const std::string& file) {
+  const std::regex author_regex(".* - (.*) - CppCon 2015\\.[^.]*$");
+  std::smatch result;
+  regex_search(file, result, author_regex);
+
+  if (result.size() < 2) return "";
+
+  return result[1];
+}
+
 void GenerateEntry(const std::string& session_name,
                    const std::string& path) {
   const Directory dir(path);
 
   std::string presentation_file;
   std::vector<std::string> all_presentation_files, all_other_files;
+  std::string author;
 
-  const std::regex presentation_regex("- CppCon 2015\\.[^.]*$",
-    std::regex_constants::icase);
+  const std::regex presentation_regex("- CppCon 2015\\.[^.]*$");
   const std::regex pdf_regex("\\.pdf$", std::regex_constants::icase);
 
   for (const auto& name : dir.Contents()) {
     if (std::regex_search(name, presentation_regex)) {
       // Pick the first file we found, but prefer PDF files if there is one.
-      if (presentation_file.empty() || std::regex_search(name, pdf_regex))
+      if (presentation_file.empty() || std::regex_search(name, pdf_regex)) {
         presentation_file = name;
+        author = Author(name);
+      }
 
       all_presentation_files.push_back(name);
     } else {
@@ -76,9 +88,9 @@ void GenerateEntry(const std::string& session_name,
     }
   }
 
-  // TODO: add author name
   std::cout << " - [" << session_name << "]("
-            << path + "/" + presentation_file << ")";
+            << path + "/" + presentation_file << ") by "
+            << author;
   if (all_presentation_files.size() >= 2) {
     for (const auto& file : all_presentation_files) {
       std::string extension = Extension(file);
