@@ -4,7 +4,7 @@ CppCon 2015 Presentation Materials
 https://github.com/CppCon/CppCon2015 is the canonical location for presentations
 and code from [CppCon 2015](http://cppcon.org).
 
-[For Speakers: Submitting Materials](Submitting.md)
+[For Speakers: Submitting Materials](submitting.md)
 
 # Index of Materials
 
@@ -27,6 +27,7 @@ and code from [CppCon 2015](http://cppcon.org).
  - [C++ in Open Source Robotics](Presentations/C++ in Open Source Robotics/C++ in Open Source Robotics - Jackie Kay, Louise Poubel - CppCon 2015.pdf) by Jackie Kay, Louise Poubel
  - [C++ Metaprogramming](Presentations/C++ Metaprogramming/C++ Metaprogramming - Fedor Pikus - CppCon 2015.pdf) by Fedor Pikus
  - [C++ metaprogramming- a paradigm shift](Presentations/C++ metaprogramming- a paradigm shift/C++ metaprogramming- a paradigm shift - Louis Dionne - CppCon 2015.pdf) by Louis Dionne
+ - [C++ Multi-dimensional Arrays for Computational Physics and Applied Mathematics](Presentations/C++ Multi-dimensional Arrays for Computational Physics and Applied Mathematics/C++ Multi-dimensional Arrays for Computational Physics and Applied Mathematics - Pramod Gupta - CppCon 2015.pdf) by Pramod Gupta
  - [C++ on the Web](Presentations/C++ on the Web/C++ on the Web - JF Bastien - CppCon 2015.pdf) by JF Bastien
  - [CLANG C2 for Windows](Presentations/CLANG C2 for Windows/CLANG C2 for Windows - Jim Radigan - CppCon 2015.pptx) by Jim Radigan
  - [Comparison is not simple, but it can be simpler - Lawrence Crowl - CppCon 2015](Presentations/Comparison is not simple, but it can be simpler - Lawrence Crowl - CppCon 2015/Comparison is not simple, but it can be simpler - Lawrence Crowl - CppCon 2015.odp) by Lawrence Crowl \[[.odp](Presentations/Comparison is not simple, but it can be simpler - Lawrence Crowl - CppCon 2015/Comparison is not simple, but it can be simpler - Lawrence Crowl - CppCon 2015.odp)\] \[[.ppt](Presentations/Comparison is not simple, but it can be simpler - Lawrence Crowl - CppCon 2015/Comparison is not simple, but it can be simpler - Lawrence Crowl - CppCon 2015.ppt)\] \[[more materials](Presentations/Comparison is not simple, but it can be simpler - Lawrence Crowl - CppCon 2015)\]
@@ -36,6 +37,7 @@ and code from [CppCon 2015](http://cppcon.org).
  - [constexpr Introduction](Presentations/constexpr Introduction/constexpr Introduction - Scott Schurr - CppCon 2015.pdf) by Scott Schurr
  - [Declarative Control Flow](Presentations/Declarative Control Flow/Declarative Control Flow - Andrei Alexandrescu - CppCon 2015.pdf) by Andrei Alexandrescu
  - [Demystifying Floating Point](Presentations/Demystifying Floating Point/Demystifying Floating Point - John Farrier - CppCon 2015.pdf) by John Farrier
+ - [Enhancing STL Containers](Presentations/Enhancing STL Containers/Enhancing STL Containers - Viktor Korsun - CppCon 2015.pdf) by Viktor Korsun
  - [Executors for C++ - A Long Story](Presentations/Executors for C++ - A Long Story/Executors for C++ - A Long Story - Detlef Vollmann - CppCon 2015.pdf) by Detlef Vollmann
  - [for_each_argument explained and expanded](Presentations/for_each_argument explained and expanded/for_each_argument explained and expanded - Vittorio Romeo - CppCon 2015.md) by Vittorio Romeo \[[more materials](Presentations/for_each_argument explained and expanded)\]
  - [From Functional To Parallel - Stochastic Modelling in C++](Presentations/From Functional To Parallel - Stochastic Modelling in C++/From Functional To Parallel - Stochastic Modelling in C++ - Kevin Carpenter - CppCon 2015.pptx) by Kevin Carpenter
@@ -47,10 +49,12 @@ and code from [CppCon 2015](http://cppcon.org).
  - [Intro to C++ Object Model](Presentations/Intro to C++ Object Model/Intro to C++ Object Model - Richard Powell - CppCon 2015.pdf) by Richard Powell \[[.key](Presentations/Intro to C++ Object Model/Intro to C++ Object Model - Richard Powell - CppCon 2015.key)\] \[[.pdf](Presentations/Intro to C++ Object Model/Intro to C++ Object Model - Richard Powell - CppCon 2015.pdf)\] \[[more materials](Presentations/Intro to C++ Object Model)\]
  - [Live lock-free or deadlock](Presentations/Live lock-free or deadlock/Live lock-free or deadlock - Fedor Pikus - CppCon 2015.pdf) by Fedor Pikus
  - [Memory and C++ debugging at EA](Presentations/Memory and C++ debugging at EA/Memory and C++ debugging at EA - Scott Wardle - CppCon 2015.pptx) by Scott Wardle
+ - [Networking and Number Crunching with C++](Presentations/Networking and Number Crunching with C++/Networking and Number Crunching with C++ - Matt P. Dziubinski - CppCon 2015.pdf) by Matt P. Dziubinski
  - [Null Pointers Shouldn't Compile](Presentations/Null Pointers Shouldn't Compile/Null Pointers Shouldn't Compile - Jacob Potter - CppCon 2015.pdf) by Jacob Potter
  - [Organizational Leadership With Modern C++](Presentations/Organizational Leadership With Modern C++/Organizational Leadership With Modern C++ - Kevin Kostrzewa and John Wyman - CppCon 2015.pdf) by Kevin Kostrzewa and John Wyman
  - [Parallelizing the C++ STL](Presentations/Parallelizing the C++ STL/Parallelizing the C++ STL - Grant Mercer and Daniel Bourgeois - CppCon 2015.pdf) by Grant Mercer and Daniel Bourgeois
  - [Pruning Error Messages From Your C++ Template Code](Presentations/Pruning Error Messages From Your C++ Template Code/Pruning Error Messages From Your C++ Template Code - Roland Bock - CppCon 2015.pdf) by Roland Bock
+ - [Rcpp - Seamless R and C++ Integration](Presentations/Rcpp - Seamless R and C++ Integration/Rcpp - Seamless R and C++ Integration - Matt P. Dziubinski - CppCon 2015.pdf) by Matt P. Dziubinski
  - [Reactive Stream Processing Rx4DDS](Presentations/Reactive Stream Processing Rx4DDS/Reactive Stream Processing Rx4DDS - Sumant Tambe - CppCon 2015.pdf) by Sumant Tambe
  - [Simple Extensible Pattern Matching With C++14](Presentations/Simple Extensible Pattern Matching With C++14/Simple Extensible Pattern Matching With C++14 - John Bandela - CppCon 2015.pdf) by John Bandela
  - [Static Analysis and C++](Presentations/Static Analysis and C++/Static Analysis and C++ - Neil Macintosh - CppCon 2015.pdf) by Neil Macintosh
@@ -63,6 +67,7 @@ and code from [CppCon 2015](http://cppcon.org).
  - [The Sad Story of memory_order_consume](Presentations/The Sad Story of memory_order_consume/The Sad Story of memory_order_consume - Paul E. McKenney - CppCon 2015.pdf) by Paul E. McKenney
  - [Time Programming Fundamentals](Presentations/Time Programming Fundamentals/Time Programming Fundamentals - Greg Miller - CppCon 2015.pdf) by Greg Miller
  - [Transactional Memory in Practice](Presentations/Transactional Memory in Practice/Transactional Memory in Practice - Brett Hall - CppCon 2015.pdf) by Brett Hall
+ - [Transducers, from Clojure to C++](Presentations/Transducers, from Clojure to C++/Transducers, from Clojure to C++ - Juan Pedro Bolivar Puente - CppCon 2015.md) by Juan Pedro Bolivar Puente \[[more materials](Presentations/Transducers, from Clojure to C++)\]
  - [Type Traits](Presentations/Type Traits/Type Traits - Marshall Clow - CppCon 2015.pdf) by Marshall Clow
  - [Unexceptional exceptions](Presentations/Unexceptional exceptions/Unexceptional exceptions - Fedor Pikus - CppCon 2015.pdf) by Fedor Pikus
  - [Variable Templates - C++14 compile-time computation](Presentations/Variable Templates - C++14 compile-time computation/Variable Templates - C++14 compile-time computation - Peter Sommerlad - CppCon 2015.pdf) by Peter Sommerlad
@@ -81,6 +86,7 @@ and code from [CppCon 2015](http://cppcon.org).
 ## Lightning Talks and Lunch Sessions
 
  - [A different way to use boost serialization](Lightning Talks and Lunch Sessions/A different way to use boost serialization/A different way to use boost serialization - Jens Weller - CppCon 2015.pdf) by Jens Weller
+ - [Algorithmic Differentiation - C++ and Extremum Estimation](Lightning Talks and Lunch Sessions/Algorithmic Differentiation - C++ and Extremum Estimation/Algorithmic Differentiation - C++ and Extremum Estimation - Matt P. Dziubinski - CppCon 2015.pdf) by Matt P. Dziubinski
  - [Being Smart About Pointers](Lightning Talks and Lunch Sessions/Being Smart About Pointers/Being Smart About Pointers - Michael VanLoon - CppCon 2015.pdf) by Michael VanLoon
  - [C++ devirtualization in clang](Lightning Talks and Lunch Sessions/C++ devirtualization in clang/C++ devirtualization in clang - Piotr Padlewski - CppCon 2015.pdf) by Piotr Padlewski
  - [C++ in the telecom industry](Lightning Talks and Lunch Sessions/C++ in the telecom industry/C++ in the telecom industry - Yani Miguel - CppCon 2015.pdf) by Yani Miguel
@@ -90,6 +96,7 @@ and code from [CppCon 2015](http://cppcon.org).
  - [Emacs as a C++ IDE](Lightning Talks and Lunch Sessions/Emacs as a C++ IDE/Emacs as a C++ IDE - Atila Neves - CppCon 2015.pdf) by Atila Neves
  - [Extreme Type Safety with Opaque Typedefs](Lightning Talks and Lunch Sessions/Extreme Type Safety with Opaque Typedefs/Extreme Type Safety with Opaque Typedefs - Kyle Markley - CppCon 2015.pdf) by Kyle Markley
  - [Give Me 15 Minutes and I'll Change Your View of GDB](Lightning Talks and Lunch Sessions/Give Me 15 Minutes and I'll Change Your View of GDB/Give Me 15 Minutes and I'll Change Your View of GDB - Greg Law - CppCon 2015.pdf) by Greg Law
+ - [Heaptrack - A Heap Memory Profiler](Lightning Talks and Lunch Sessions/Heaptrack - A Heap Memory Profiler/Heaptrack - A Heap Memory Profiler - Milian Wolff - CppCon 2015.pdf) by Milian Wolff
  - [How to infix your code](Lightning Talks and Lunch Sessions/How to infix your code/How to infix your code - Pascal Bormann - CppCon 2015.pdf) by Pascal Bormann
  - [Integrating TinyMCE3 into Qt](Lightning Talks and Lunch Sessions/Integrating TinyMCE3 into Qt/Integrating TinyMCE3 into Qt - Jens Weller - CppCon 2015.pdf) by Jens Weller
  - [Introducing Brigand](Lightning Talks and Lunch Sessions/Introducing Brigand/Introducing Brigand - Edouard Alligand and Joel Falcou - CppCon 2015.pdf) by Edouard Alligand and Joel Falcou
