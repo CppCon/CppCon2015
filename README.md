@@ -55,6 +55,7 @@ and code from [CppCon 2015](http://cppcon.org).
  - [Organizational Leadership With Modern C++](Presentations/Organizational Leadership With Modern C++/Organizational Leadership With Modern C++ - Kevin Kostrzewa and John Wyman - CppCon 2015.pdf) by Kevin Kostrzewa and John Wyman
  - [Parallelizing the C++ STL](Presentations/Parallelizing the C++ STL/Parallelizing the C++ STL - Grant Mercer and Daniel Bourgeois - CppCon 2015.pdf) by Grant Mercer and Daniel Bourgeois
  - [Pruning Error Messages From Your C++ Template Code](Presentations/Pruning Error Messages From Your C++ Template Code/Pruning Error Messages From Your C++ Template Code - Roland Bock - CppCon 2015.pdf) by Roland Bock
+ - [Racing the Filesystem](Presentations/Racing the Filesystem/Racing the Filesystem - Niall Douglas - CppCon 2015.pdf) by Niall Douglas
  - [Rcpp - Seamless R and C++ Integration](Presentations/Rcpp - Seamless R and C++ Integration/Rcpp - Seamless R and C++ Integration - Matt P. Dziubinski - CppCon 2015.pdf) by Matt P. Dziubinski
  - [Reactive Stream Processing Rx4DDS](Presentations/Reactive Stream Processing Rx4DDS/Reactive Stream Processing Rx4DDS - Sumant Tambe - CppCon 2015.pdf) by Sumant Tambe
  - [Simple Extensible Pattern Matching With C++14](Presentations/Simple Extensible Pattern Matching With C++14/Simple Extensible Pattern Matching With C++14 - John Bandela - CppCon 2015.pdf) by John Bandela
