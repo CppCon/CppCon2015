@@ -66,4 +66,6 @@ done
 mkdir -p "$FOLDER/$TITLE"
 mv "$FILE" "$FOLDER/$TITLE/$NEW_FILENAME"
 git add "$FOLDER/$TITLE"
+_tools/make_README.sh
+git add README.md
 git commit -v -m "Add $TITLE by $AUTHOR." -e
