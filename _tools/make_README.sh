@@ -21,5 +21,6 @@ echo "# Index of Materials" >> README.md
 
 add_index "Keynotes"
 add_index "Presentations"
+add_index "Tutorials"
 add_index "Demos"
 add_index "Lightning Talks and Lunch Sessions"

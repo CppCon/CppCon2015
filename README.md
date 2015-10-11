@@ -79,6 +79,22 @@ and code from [CppCon 2015](http://cppcon.org).
  - [Writing Great Libraries in 89 Easy Steps](Presentations/Writing Great Libraries in 89 Easy Steps/Writing Great Libraries in 89 Easy Steps - Zach Laine - CppCon 2015.md) by Zach Laine
  - [Writing my own CMS](Presentations/Writing my own CMS/Writing my own CMS - Jens Weller - CppCon 2015.pdf) by Jens Weller
 
+## Tutorials
+
+ - [An Overview on Encryption in C++](Tutorials/An Overview on Encryption in C++/An Overview on Encryption in C++ - Jens Weller - CppCon 2015.pdf) by Jens Weller
+ - [Boost Units for Correct Code](Tutorials/Boost Units for Correct Code/Boost Units for Correct Code - Robert Ramey - CppCon 2015.zip) by Robert Ramey
+ - [Crazy Easy Scripting with ChaiScript](Tutorials/Crazy Easy Scripting with ChaiScript/Crazy Easy Scripting with ChaiScript - Jason Turner - CppCon 2015.pdf) by Jason Turner
+ - [Effective C++ Implementation of Class Properties](Tutorials/Effective C++ Implementation of Class Properties/Effective C++ Implementation of Class Properties - Viktor Korsun - CppCon 2015.pdf) by Viktor Korsun
+ - [Expression Templates What Why When Were](Tutorials/Expression Templates What Why When Were/Expression Templates What Why When Were - Joel Falcou - CppCon 2015.pdf) by Joel Falcou \[[more materials](Tutorials/Expression Templates What Why When Were)\]
+ - [Futures from Scratch](Tutorials/Futures from Scratch/Futures from Scratch - Arthur O'Dwyer - CppCon 2015.pdf) by Arthur O'Dwyer
+ - [Implementation of a component-based entity system in modern C++](Tutorials/Implementation of a component-based entity system in modern C++/Implementation of a component-based entity system in modern C++ - Vittorio Romeo - CppCon 2015.pdf) by Vittorio Romeo \[[more materials](Tutorials/Implementation of a component-based entity system in modern C++)\]
+ - [Kiss Templates](Tutorials/Kiss Templates/Kiss Templates - Roland Bock - CppCon 2015.pdf) by Roland Bock
+ - [Lambdas from First Principles](Tutorials/Lambdas from First Principles/Lambdas from First Principles - Arthur O'Dwyer - CppCon 2015.pdf) by Arthur O'Dwyer
+ - [Racing the Filesystem](Tutorials/Racing the Filesystem/Racing the Filesystem - Niall Douglas - CppCon 2015.pdf) by Niall Douglas
+ - [Secure C++ Programming](Tutorials/Secure C++ Programming/Secure C++ Programming - Gwendolyn Hunt - CppCon 2015.pdf) by Gwendolyn Hunt
+ - [The Current State of (Free) Static Analysis](Tutorials/The Current State of (Free) Static Analysis/The Current State of (Free) Static Analysis - Jason Turner - CppCon 2015.pdf) by Jason Turner
+ - [Using Spirit x3 To Write Parsers](Tutorials/Using Spirit x3 To Write Parsers/Using Spirit x3 to Write Parsers - Michael Caisse - CppCon 2015.pdf) by Michael Caisse
+
 ## Demos
 
  - [Becoming a GDB Power User](Demos/Becoming a GDB Power User/Becoming a GDB Power User - Greg Law - CppCon 2015.pdf) by Greg Law
