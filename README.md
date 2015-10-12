@@ -88,6 +88,7 @@ and code from [CppCon 2015](http://cppcon.org).
 
  - [An Overview on Encryption in C++](Tutorials/An Overview on Encryption in C++/An Overview on Encryption in C++ - Jens Weller - CppCon 2015.pdf) by Jens Weller
  - [Boost Units for Correct Code](Tutorials/Boost Units for Correct Code/Boost Units for Correct Code - Robert Ramey - CppCon 2015.zip) by Robert Ramey
+ - [cppreference.com - the community wiki](Tutorials/cppreference.com - the community wiki/cppreference.com - the community wiki - Sergey Zubkov - CppCon 2015.pdf) by Sergey Zubkov
  - [Crazy Easy Scripting with ChaiScript](Tutorials/Crazy Easy Scripting with ChaiScript/Crazy Easy Scripting with ChaiScript - Jason Turner - CppCon 2015.pdf) by Jason Turner
  - [Effective C++ Implementation of Class Properties](Tutorials/Effective C++ Implementation of Class Properties/Effective C++ Implementation of Class Properties - Viktor Korsun - CppCon 2015.pdf) by Viktor Korsun
  - [Expression Templates What Why When Were](Tutorials/Expression Templates What Why When Were/Expression Templates What Why When Were - Joel Falcou - CppCon 2015.pdf) by Joel Falcou \[[more materials](Tutorials/Expression Templates What Why When Were)\]
