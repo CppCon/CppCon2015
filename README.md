@@ -10,6 +10,7 @@ and code from [CppCon 2015](http://cppcon.org).
 
 ## Keynotes
 
+ - [Better Code - Data Structures](Keynotes/Better Code - Data Structures/Better Code - Data Structures - Sean Parent - CppCon 2015.pdf) by Sean Parent \[[.key](Keynotes/Better Code - Data Structures/Better Code - Data Structures - Sean Parent - CppCon 2015.key)\] \[[.pdf](Keynotes/Better Code - Data Structures/Better Code - Data Structures - Sean Parent - CppCon 2015.pdf)\]
  - [Ranges for the Standard Library](Keynotes/Ranges for the Standard Library/Ranges for the Standard Library - Eric Niebler - CppCon 2015.pptx) by Eric Niebler
  - [Writing Good C++14](Keynotes/Writing Good C++14/Writing Good C++14 - Bjarne Stroustrup - CppCon 2015.pdf) by Bjarne Stroustrup
  - [Writing Good C++14 By Default](Keynotes/Writing Good C++14 By Default/Writing Good C++14 By Default - Herb Sutter - CppCon 2015.pdf) by Herb Sutter
