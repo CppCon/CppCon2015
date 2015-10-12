@@ -38,6 +38,7 @@ and code from [CppCon 2015](http://cppcon.org).
  - [Concurrency TS - Editor’s Report](Presentations/Concurrency TS - Editor’s Report/Concurrency TS - Editor’s Report - Artur Laksberg - CppCon 2015.pptx) by Artur Laksberg
  - [constexpr Applications](Presentations/constexpr Applications/constexpr Applications - Scott Schurr - CppCon 2015.pdf) by Scott Schurr
  - [constexpr Introduction](Presentations/constexpr Introduction/constexpr Introduction - Scott Schurr - CppCon 2015.pdf) by Scott Schurr
+ - [Contracts for Dependable C++](Presentations/Contracts for Dependable C++/Contracts for Dependable C++ - Gabriel Dos Reis - CppCon 2015.pdf) by Gabriel Dos Reis
  - [Cross-Platform Mobile App Dev with VC++](Presentations/Cross-Platform Mobile App Dev with VC++/Cross-Platform Mobile App Dev with VC++ - Ankit Asthana and Marc Gregoire - CppCon 2015.pdf) by Ankit Asthana and Marc Gregoire
  - [Declarative Control Flow](Presentations/Declarative Control Flow/Declarative Control Flow - Andrei Alexandrescu - CppCon 2015.pdf) by Andrei Alexandrescu
  - [Demystifying Floating Point](Presentations/Demystifying Floating Point/Demystifying Floating Point - John Farrier - CppCon 2015.pdf) by John Farrier
