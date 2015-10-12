@@ -25,6 +25,7 @@ and code from [CppCon 2015](http://cppcon.org).
  - [Boostache Exposed](Presentations/Boostache Exposed/Boostache Exposed - Michael Caisse - CppCon 2015.pdf) by Michael Caisse
  - [Bridging Languages Cross-Platform](Presentations/Bridging Languages Cross-Platform/Bridging Languages Cross-Platform - Andrew Twyman and Jacob Potter - CppCon 2015.pdf) by Andrew Twyman and Jacob Potter
  - [C++ Coroutines](Presentations/C++ Coroutines/C++ Coroutines - Gor Nishanov - CppCon 2015.pdf) by Gor Nishanov
+ - [C++ for cross-platform VR development](Presentations/C++ for cross-platform VR development/C++ for cross-platform VR development - Nicolas Lazareff - CppCon 2015.pdf) by Nicolas Lazareff
  - [C++ in Open Source Robotics](Presentations/C++ in Open Source Robotics/C++ in Open Source Robotics - Jackie Kay, Louise Poubel - CppCon 2015.pdf) by Jackie Kay, Louise Poubel
  - [C++ Metaprogramming](Presentations/C++ Metaprogramming/C++ Metaprogramming - Fedor Pikus - CppCon 2015.pdf) by Fedor Pikus
  - [C++ metaprogramming- a paradigm shift](Presentations/C++ metaprogramming- a paradigm shift/C++ metaprogramming- a paradigm shift - Louis Dionne - CppCon 2015.pdf) by Louis Dionne
