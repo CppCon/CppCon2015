@@ -69,6 +69,7 @@ and code from [CppCon 2015](http://cppcon.org).
  - [Qt - modern user interfaces for C++](Presentations/Qt - modern user interfaces for C++/Qt - modern user interfaces for C++ - Milian Wolff - CppCon 2015.pdf) by Milian Wolff
  - [Rcpp - Seamless R and C++ Integration](Presentations/Rcpp - Seamless R and C++ Integration/Rcpp - Seamless R and C++ Integration - Matt P. Dziubinski - CppCon 2015.pdf) by Matt P. Dziubinski
  - [Reactive Stream Processing Rx4DDS](Presentations/Reactive Stream Processing Rx4DDS/Reactive Stream Processing Rx4DDS - Sumant Tambe - CppCon 2015.pdf) by Sumant Tambe
+ - [Reflection techniques in C++](Presentations/Reflection techniques in C++/Reflection techniques in C++ - Paul Fultz II - CppCon 2015.pdf) by Paul Fultz II
  - [Simple Extensible Pattern Matching With C++14](Presentations/Simple Extensible Pattern Matching With C++14/Simple Extensible Pattern Matching With C++14 - John Bandela - CppCon 2015.pdf) by John Bandela
  - [Static Analysis and C++](Presentations/Static Analysis and C++/Static Analysis and C++ - Neil Macintosh - CppCon 2015.pdf) by Neil Macintosh
  - [STL Algorithms in Action](Presentations/STL Algorithms in Action/STL Algorithms in Action - Michael VanLoon - CppCon 2015.pdf) by Michael VanLoon \[[.pdf](Presentations/STL Algorithms in Action/STL Algorithms in Action - Michael VanLoon - CppCon 2015.pdf)\] \[[.pptx](Presentations/STL Algorithms in Action/STL Algorithms in Action - Michael VanLoon - CppCon 2015.pptx)\]
