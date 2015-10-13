@@ -44,6 +44,7 @@ and code from [CppCon 2015](http://cppcon.org).
  - [Cross-Platform Mobile App Dev with VC++](Presentations/Cross-Platform Mobile App Dev with VC++/Cross-Platform Mobile App Dev with VC++ - Ankit Asthana and Marc Gregoire - CppCon 2015.pdf) by Ankit Asthana and Marc Gregoire
  - [Declarative Control Flow](Presentations/Declarative Control Flow/Declarative Control Flow - Andrei Alexandrescu - CppCon 2015.pdf) by Andrei Alexandrescu
  - [Demystifying Floating Point](Presentations/Demystifying Floating Point/Demystifying Floating Point - John Farrier - CppCon 2015.pdf) by John Farrier
+ - [Easy compilation from TouchDevelop to ARM Cortex-M0 using C++11](Presentations/Easy compilation from TouchDevelop to ARM Cortex-M0 using C++11/Easy compilation from TouchDevelop to ARM Cortex-M0 using C++11 - Jonathan Protzenko - CppCon 2015.pptx) by Jonathan Protzenko
  - [Enhancing STL Containers](Presentations/Enhancing STL Containers/Enhancing STL Containers - Viktor Korsun - CppCon 2015.pdf) by Viktor Korsun
  - [Evolving Legacy Code](Presentations/Evolving Legacy Code/Evolving Legacy Code - Rachel Cheng and Michael VanLoon - CppCon 2015.pptx) by Rachel Cheng and Michael VanLoon
  - [Executors for C++ - A Long Story](Presentations/Executors for C++ - A Long Story/Executors for C++ - A Long Story - Detlef Vollmann - CppCon 2015.pdf) by Detlef Vollmann
