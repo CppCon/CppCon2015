@@ -21,6 +21,7 @@ and code from [CppCon 2015](http://cppcon.org).
  - [A C++14 Approach to Dates and Times](Presentations/A C++14 Approach to Dates and Times/A C++14 Approach to Dates and Times - Howard Hinnant - CppCon 2015.pdf) by Howard Hinnant
  - [A Few Good Types](Presentations/A Few Good Types/A Few Good Types - Neil MacIntosh - CppCon 2015.pdf) by Neil MacIntosh
  - [allocator Is to Allocation what vector Is to Vexation](Presentations/allocator Is to Allocation what vector Is to Vexation/allocator Is to Allocation what vector Is to Vexation - Andrei Alexandrescu - CppCon 2015.pdf) by Andrei Alexandrescu
+ - [Applying functional programming in code design](Presentations/Applying functional programming in code design/Applying functional programming in code design - Michał Dominiak - CppCon 2015.pdf) by Michał Dominiak
  - [Benchmarking C++ Code](Presentations/Benchmarking C++ Code/Benchmarking C++ Code - Bryce Adelstein Lelbach - CppCon 2015.pdf) by Bryce Adelstein Lelbach
  - [Beyond Sanitizers](Presentations/Beyond Sanitizers/Beyond Sanitizers - Kostya Serebryany - CppCon 2015.pdf) by Kostya Serebryany
  - [Boostache Exposed](Presentations/Boostache Exposed/Boostache Exposed - Michael Caisse - CppCon 2015.pdf) by Michael Caisse
