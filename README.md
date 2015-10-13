@@ -44,6 +44,7 @@ and code from [CppCon 2015](http://cppcon.org).
  - [Declarative Control Flow](Presentations/Declarative Control Flow/Declarative Control Flow - Andrei Alexandrescu - CppCon 2015.pdf) by Andrei Alexandrescu
  - [Demystifying Floating Point](Presentations/Demystifying Floating Point/Demystifying Floating Point - John Farrier - CppCon 2015.pdf) by John Farrier
  - [Enhancing STL Containers](Presentations/Enhancing STL Containers/Enhancing STL Containers - Viktor Korsun - CppCon 2015.pdf) by Viktor Korsun
+ - [Evolving Legacy Code](Presentations/Evolving Legacy Code/Evolving Legacy Code - Rachel Cheng and Michael VanLoon - CppCon 2015.pptx) by Rachel Cheng and Michael VanLoon
  - [Executors for C++ - A Long Story](Presentations/Executors for C++ - A Long Story/Executors for C++ - A Long Story - Detlef Vollmann - CppCon 2015.pdf) by Detlef Vollmann
  - [for_each_argument explained and expanded](Presentations/for_each_argument explained and expanded/for_each_argument explained and expanded - Vittorio Romeo - CppCon 2015.md) by Vittorio Romeo \[[more materials](Presentations/for_each_argument explained and expanded)\]
  - [From Functional To Parallel - Stochastic Modelling in C++](Presentations/From Functional To Parallel - Stochastic Modelling in C++/From Functional To Parallel - Stochastic Modelling in C++ - Kevin Carpenter - CppCon 2015.pptx) by Kevin Carpenter
