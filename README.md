@@ -104,6 +104,7 @@ and code from [CppCon 2015](http://cppcon.org).
  - [Expression Templates What Why When Were](Tutorials/Expression Templates What Why When Were/Expression Templates What Why When Were - Joel Falcou - CppCon 2015.pdf) by Joel Falcou \[[more materials](Tutorials/Expression Templates What Why When Were)\]
  - [Futures from Scratch](Tutorials/Futures from Scratch/Futures from Scratch - Arthur O'Dwyer - CppCon 2015.pdf) by Arthur O'Dwyer
  - [Implementation of a component-based entity system in modern C++](Tutorials/Implementation of a component-based entity system in modern C++/Implementation of a component-based entity system in modern C++ - Vittorio Romeo - CppCon 2015.pdf) by Vittorio Romeo \[[more materials](Tutorials/Implementation of a component-based entity system in modern C++)\]
+ - [Integrating generators EDSL's for Boost.Spirit X3](Tutorials/Integrating generators EDSL's for Boost.Spirit X3/Integrating generators EDSL's for Boost.Spirit X3 - Felipe Magno de Almeida - CppCon 2015.pdf) by Felipe Magno de Almeida
  - [Kiss Templates](Tutorials/Kiss Templates/Kiss Templates - Roland Bock - CppCon 2015.pdf) by Roland Bock
  - [Lambdas from First Principles](Tutorials/Lambdas from First Principles/Lambdas from First Principles - Arthur O'Dwyer - CppCon 2015.pdf) by Arthur O'Dwyer
  - [Racing the Filesystem](Tutorials/Racing the Filesystem/Racing the Filesystem - Niall Douglas - CppCon 2015.pdf) by Niall Douglas
