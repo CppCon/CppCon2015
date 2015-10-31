@@ -19,6 +19,7 @@ and code from [CppCon 2015](http://cppcon.org).
 
  - [3D Face Tracking and Reconstruction using Modern C++](Presentations/3D Face Tracking and Reconstruction using Modern C++/3D Face Tracking and Reconstruction using Modern C++ - Patrik Huber - CppCon 2015.pdf) by Patrik Huber
  - [A C++14 Approach to Dates and Times](Presentations/A C++14 Approach to Dates and Times/A C++14 Approach to Dates and Times - Howard Hinnant - CppCon 2015.pdf) by Howard Hinnant
+ - [A Crash Course in Open Source Licensing](Presentations/A Crash Course in Open Source Licensing/A Crash Course in Open Source Licensing - Kevin P. Fleming - CppCon 2015.zip) by Kevin P. Fleming
  - [A Few Good Types](Presentations/A Few Good Types/A Few Good Types - Neil MacIntosh - CppCon 2015.pdf) by Neil MacIntosh
  - [All Your Tests Are Terrible](Presentations/All Your Tests Are Terrible/All Your Tests Are Terrible - Titus Winters and Hyrum Wright - CppCon 2015.pdf) by Titus Winters and Hyrum Wright
  - [allocator Is to Allocation what vector Is to Vexation](Presentations/allocator Is to Allocation what vector Is to Vexation/allocator Is to Allocation what vector Is to Vexation - Andrei Alexandrescu - CppCon 2015.pdf) by Andrei Alexandrescu
