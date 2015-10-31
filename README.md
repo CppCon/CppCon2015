@@ -91,6 +91,7 @@ and code from [CppCon 2015](http://cppcon.org).
  - [Unexceptional exceptions](Presentations/Unexceptional exceptions/Unexceptional exceptions - Fedor Pikus - CppCon 2015.pdf) by Fedor Pikus
  - [Variable Templates - C++14 compile-time computation](Presentations/Variable Templates - C++14 compile-time computation/Variable Templates - C++14 compile-time computation - Peter Sommerlad - CppCon 2015.pdf) by Peter Sommerlad
  - [Variadic Templates - Guidelines, Examples and Compile-time computation](Presentations/Variadic Templates - Guidelines, Examples and Compile-time computation/Variadic Templates - Guidelines, Examples and Compile-time computation - Peter Sommerlad - CppCon 2015.pdf) by Peter Sommerlad
+ - [What is Open Source, and Why Should You Care](Presentations/What is Open Source, and Why Should You Care/What is Open Source, and Why Should You Care - Kevin P. Fleming - CppCon 2015.zip) by Kevin P. Fleming
  - [What's New In VS2015](Presentations/What's New In VS2015/What's New In VS2015 - Steve Carroll - CppCon 2015.pdf) by Steve Carroll
  - [Work Stealing](Presentations/Work Stealing/Work Stealing - Pablo Halpern - CppCon 2015.pptx) by Pablo Halpern
  - [Writing Great Libraries in 89 Easy Steps](Presentations/Writing Great Libraries in 89 Easy Steps/Writing Great Libraries in 89 Easy Steps - Zach Laine - CppCon 2015.md) by Zach Laine
