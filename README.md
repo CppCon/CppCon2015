@@ -89,6 +89,7 @@ and code from [CppCon 2015](http://cppcon.org).
  - [Transducers, from Clojure to C++](Presentations/Transducers, from Clojure to C++/Transducers, from Clojure to C++ - Juan Pedro Bolivar Puente - CppCon 2015.md) by Juan Pedro Bolivar Puente \[[more materials](Presentations/Transducers, from Clojure to C++)\]
  - [Type Traits](Presentations/Type Traits/Type Traits - Marshall Clow - CppCon 2015.pdf) by Marshall Clow
  - [Unexceptional exceptions](Presentations/Unexceptional exceptions/Unexceptional exceptions - Fedor Pikus - CppCon 2015.pdf) by Fedor Pikus
+ - [Value Semantics](Presentations/Value Semantics/Value Semantics - John Lakos - CppCon 2015.pdf) by John Lakos
  - [Variable Templates - C++14 compile-time computation](Presentations/Variable Templates - C++14 compile-time computation/Variable Templates - C++14 compile-time computation - Peter Sommerlad - CppCon 2015.pdf) by Peter Sommerlad
  - [Variadic Templates - Guidelines, Examples and Compile-time computation](Presentations/Variadic Templates - Guidelines, Examples and Compile-time computation/Variadic Templates - Guidelines, Examples and Compile-time computation - Peter Sommerlad - CppCon 2015.pdf) by Peter Sommerlad
  - [What is Open Source, and Why Should You Care](Presentations/What is Open Source, and Why Should You Care/What is Open Source, and Why Should You Care - Kevin P. Fleming - CppCon 2015.zip) by Kevin P. Fleming
